@@ -17,6 +17,9 @@
       },
       "api": {
         "awsamplifyfullstack": {}
+      },
+      "storage": {
+        "imagestorage": {}
       }
     }
   }
