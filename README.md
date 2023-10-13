@@ -3,7 +3,7 @@
 A simple full-stack notes application built with React.js for the frontend and AWS Amplify for the backend. This application allows users to create and delete notes, and it leverages various AWS services, including AWS Cognito for authentication, AWS AppSync for the GraphQL API, Amazon DynamoDB for database storage, and Amazon S3 for storing images.
 
 ## User Interface
-<img src="/assets/images/auth.png" width="450" height="250"> <img src="/assets/images/ui.png" width="450" height="250">
+<img src="/assets/images/auth.png" width="400" height="200"> <img src="/assets/images/ui.png" width="400" height="200">
 
 ## Features and Technologies used
 
