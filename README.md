@@ -59,6 +59,9 @@ Before you can use this application, ensure you have the following prerequisites
    amplify publish
    ```
 
+## AWS successful deployment
+<img src="/assets/images/frntdep.png" width="400" height="200"> <img src="/assets/images/bakdep.png" width="400" height="200">
+
 ## Usage
 
 1. You can access hosted application from your aws amplify dashboard
