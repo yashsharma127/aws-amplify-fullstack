@@ -21,9 +21,9 @@ A simple full-stack notes application built with React.js for the frontend and A
 
 Before you can use this application, ensure you have the following prerequisites:
 
-- Node.js and npm installed
-- An AWS account with Amplify, Cognito, and AppSync services configured
-- Git and GitHub account (for hosting the frontend)
+- Node.js and npm installed.
+- An AWS account with Amplify, Cognito, and AppSync services configured.
+- Git and GitHub account (for hosting the frontend).
 
 ## Setup
 
@@ -64,7 +64,7 @@ Before you can use this application, ensure you have the following prerequisites
 
 ## Usage
 
-1. You can access hosted application from your aws amplify dashboard
+1. You can access hosted application from your aws amplify dashboard.
 
 2. You can access it locally:
 
